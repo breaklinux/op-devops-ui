@@ -45,7 +45,6 @@ npm run dev
 
 ![登录界面](./src/picture/login_page.jpg)
 
-![菜单管理](./src/picture/menu_page.jpg)
 
 ![应用发布](./src/picture/cicd_page.jpg)
 
