@@ -41,3 +41,22 @@ module.exports = envs;
 npm run dev
 ```
 
+
+![登录界面](./src/picture/login_page.jpg)
+
+![菜单管理](./src/picture/menu_page.jpg)
+
+![应用发布](./src/picture/cicd_page.jpg)
+
+![系统服务](./src/picture/system_page.jpg)
+
+![ansible](./src/picture/ansible_page.jpg)
+![系统服务](./src/picture/system_page.jpg)
+
+
+
+
+
+
+
+
