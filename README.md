@@ -51,7 +51,7 @@ npm run dev
 ![系统服务](./src/picture/system_page.jpg)
 
 ![ansible](./src/picture/ansible_page.jpg)
-![系统服务](./src/picture/system_page.jpg)
+
 
 
 
