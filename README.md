@@ -48,10 +48,11 @@ npm run dev
 
 ![应用发布](./src/picture/cicd_page.jpg)
 
+![发布功能](./src/picture/jenkins-cicd-01.jpg)
 
 ![ansible](./src/picture/ansible_page.jpg)
 
-
+![实例管理](./src/picture/host.jpg)
 
 
 
