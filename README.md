@@ -41,6 +41,7 @@ module.exports = envs;
 npm run dev
 ```
 
+## 功能列表
 
 ![登录界面](./src/picture/login_page.jpg)
 
